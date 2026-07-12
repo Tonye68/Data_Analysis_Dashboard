@@ -24,3 +24,6 @@ Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboar
 - Made sure data is consistent and clean with respect to data type, data format and values used
 - Created a pivot table according to the question asked
 - Merge all pivot tables into the dashboard and apply a slicer to make it dynamic 
+
+
+#Dashboard <img width="939" height="570" alt="Dashboard" src="https://github.com/user-attachments/assets/d258d75c-c23b-47c7-b5f2-e9c850a28c1d" />
