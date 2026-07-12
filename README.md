@@ -28,7 +28,7 @@ Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboar
 
 ## Dashboard 
 
-<img width="939" height="570" alt="Dashboard" src="https://github.com/user-attachments/assets/d258d75c-c23b-47c7-b5f2-e9c850a28c1d" />
+<img width="943" height="566" alt="Dashboard" src="https://github.com/user-attachments/assets/e2f7ea25-8867-4098-a043-ac55142d2346" />
 
 ## Project Insight
 -	Customers who have registered as bonified members of the supermarket tend to patronize the supermarket more than normal customers
