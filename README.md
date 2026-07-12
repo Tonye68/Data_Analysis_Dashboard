@@ -17,3 +17,10 @@ The Supermarket sales want to be reviewed by creating an annual sales report for
 8. Which customer type (Member or Normal) spends more?
 
 Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
+# #🧹 Data Cleaning and Preparation Process 
+
+- Verify data for any missing values and anomalies, and sort out the same
+- Made sure data is consistent and clean with respect to data type, data format and values used
+- Created a pivot table according to the question asked
+- Merge all pivot tables into the dashboard and apply a slicer to make it dynamic 
