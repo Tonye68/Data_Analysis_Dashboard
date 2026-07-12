@@ -29,3 +29,11 @@ Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboar
 ## Dashboard 
 
 <img width="939" height="570" alt="Dashboard" src="https://github.com/user-attachments/assets/d258d75c-c23b-47c7-b5f2-e9c850a28c1d" />
+
+## Project Insight
+-	Customers who have registered as bonified members of the supermarket tend to patronize the supermarket more than normal customers
+-	Naypyitaw City had the highest amount in total sales
+-	Food and beverages where the highest products sold
+-	Branch c had the highest sum of total profit
+-	Ewallet was the most used payment method for the purchase of goods bought amounting to over 35% of payment method distribution
+-	January recorded the highest number of sales
