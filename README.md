@@ -18,7 +18,7 @@ The Supermarket sales want to be reviewed by creating an annual sales report for
 
 Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
-##Data Cleaning and Preparation Process 
+## 🧹 Data Cleaning and Preparation Process 
 
 - Verify data for any missing values and anomalies, and sort out the same
 - Made sure data is consistent and clean with respect to data type, data format and values used
@@ -26,4 +26,6 @@ Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboar
 - Merge all pivot tables into the dashboard and apply a slicer to make it dynamic 
 
 
-#Dashboard <img width="939" height="570" alt="Dashboard" src="https://github.com/user-attachments/assets/d258d75c-c23b-47c7-b5f2-e9c850a28c1d" />
+## Dashboard 
+
+<img width="939" height="570" alt="Dashboard" src="https://github.com/user-attachments/assets/d258d75c-c23b-47c7-b5f2-e9c850a28c1d" />
