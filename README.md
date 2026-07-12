@@ -1,2 +1,3 @@
-# Data_Analysis_Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
+# 🛒 Supermarket Sales Analysis Interactive Dashboard creation using MS Excel
+## 📌 Project Objective
+The Supermarket sales want to be reviewed by creating an annual sales report for 2019, in other for the owner to understand their customer his customers and grow more sales in 2020 and 2021.
