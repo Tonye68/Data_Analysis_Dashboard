@@ -15,4 +15,5 @@ The Supermarket sales want to be reviewed by creating an annual sales report for
 6. Which payment method is used most frequently?
 7. How have sales changed over time?
 8. Which customer type (Member or Normal) spends more?
-9. 
+
+Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
