@@ -1,6 +1,6 @@
 # 🛒 Supermarket Sales Analysis Interactive Dashboard creation using MS Excel
 ## 📌 Project Objective
-The Supermarket sales want to be reviewed by creating an annual sales report for 2019, in other for the owner to understand their customer his customers and grow more sales in 2020 and 2021.
+The Supermarket sales need to be reviewed by creating an annual sales report for 2019, in order for the owner to understand their customer his customers and grow more sales in 2020 and 2021.
 ## Dataset Used 
 - <a href="https://github.com/Tonye68/Data_Analysis_Dashboard/commit/a6a2746cf368354097ca7c538bd16ee8dbb40f32">Dataset</a>
 
@@ -20,11 +20,10 @@ Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboar
 
 ## 🧹 Data Cleaning and Preparation Process 
 
-- Verify data for any missing values and anomalies, and sort out the same
+- Verified data for any missing values and anomalies, and sort out the same
 - Made sure data is consistent and clean with respect to data type, data format and values used
 - Created a pivot table according to the question asked
-- Merge all pivot tables into the dashboard and apply a slicer to make it dynamic 
-
+- Merged all pivot tables into the dashboard and applied a slicer to make it dynamic 
 
 ## Dashboard 
 
@@ -33,7 +32,7 @@ Dashboard Interaction <a href="https://github.com/Tonye68/Data_Analysis_Dashboar
 ## Project Insight
 -	Customers who have registered as bonified members of the supermarket tend to patronize the supermarket more than normal customers
 -	Naypyitaw City had the highest amount in total sales
--	Food and beverages where the highest products sold
--	Branch c had the highest sum of total profit
--	Ewallet was the most used payment method for the purchase of goods bought amounting to over 35% of payment method distribution
+-	Food and beverages were the highest products sold
+-	Branch C had the highest sum of total profit
+-	Ewallet was the most used payment method for the purchase of goods, amounting to over 35% of payment method distribution
 -	January recorded the highest number of sales
